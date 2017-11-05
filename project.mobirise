@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cecile broekaert",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.3.4",
@@ -37,7 +37,7 @@
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/tumblr-oijxscodpk1uv731ho1-1280-128x94.png",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
